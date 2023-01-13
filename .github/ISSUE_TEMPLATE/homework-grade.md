@@ -2,10 +2,13 @@
 name: Homework Grade
 about: Evaluating homework assignment and providing feedback
 title: Homework Grade
-labels: ''
-assignees: ''
+labels: '4/5'
+assignees: 'Nayantara'
 
 ---
+4/5
+Your script download_pronto.sh does not execute as you need to explicity give the script executable permissions
+Optional: You can resubmit your assignment to get back the 1pt 
 
 Homework evaluation rubric: 
 
